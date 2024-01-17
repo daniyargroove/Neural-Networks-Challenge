@@ -13,7 +13,7 @@ Optimize the model.
 
 ## Technologies
 
-This project leverages JupyterLab Version 3.0.14 in association with Anaconda distribution and the Conda package manager. The following packages are also used:
+This project leverages JupyterLab in association with Anaconda distribution and the Conda package manager. The following packages are also used:
 
 pandas - Data analysis toolkit for Python.
 
