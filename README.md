@@ -11,7 +11,8 @@ Use the model-fit-predict pattern to compile and evaluate a binary classificatio
 
 Optimize the model.
 
-Technologies
+## Technologies
+
 This project leverages JupyterLab Version 3.0.14 in association with Anaconda distribution and the Conda package manager. The following packages are also used:
 
 pandas - Data analysis toolkit for Python.
